@@ -1,2 +1,2 @@
-# LinearRegression-Python_RStudio
-Python Projects
+# Python Projects
+
